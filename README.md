@@ -2,7 +2,7 @@
 # Docente: Prof. Mentor Cloves Rocha
 
 # Discentes:
-...
+...Gabriel Anilton Leite Siqueira
 ...
 
 # Sugestão de Hackaton:
